@@ -89,13 +89,6 @@ Storybook is a way of visually testing and documenting components. Prismic does 
 
 Components which are outside of the slicemachine will also need their own stories created so that they can be tested. Again, see the `Hero` for an example of this.
 
-TODO:
-
-- [ ] Cypress (for page level testing)
-- [ ] Jest (for testing core functionality)
-- [ ] Typescript (for guaranteeing types work as expected)
-- [ ] BrowserStack/Percy integration for automatically testing across different devices (requires Cypress first)
-
 ## Links & other resources
 
 This project is extended from the [Prismic](https://prismic.io) + [Next.js](https://nextjs.org/) slicemachine starter. If you are unfamiliar with this project, I highly recommend checking that out first.
@@ -109,10 +102,24 @@ This project is extended from the [Prismic](https://prismic.io) + [Next.js](http
 
 ## License
 
-This software is licensed under the Apache 2 license, quoted below.
+MIT License
 
-Copyright 2021 [Skyward Digital](http://skyward.digital/).
+Copyright (c) 2022 George Gabriel Luță
 
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this project except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
