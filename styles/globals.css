@@ -1,0 +1,18 @@
+/* Using JIT mode, see tailwind's limitations with this mode here https://tailwindcss.com/docs/just-in-time-mode#known-limitations */
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+* {
+  @apply antialiased;
+}
+
+body {
+  /* add global rules here */
+}
+
+html {
+  scroll-behavior: smooth;
+}
+

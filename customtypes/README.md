@@ -1,0 +1,1 @@
+This directory holds the field definition of the custom types that we can find in Prismic.

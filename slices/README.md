@@ -1,0 +1,1 @@
+This directory contains the code generated/authored for the Prismic slices that are created using the slice machine.

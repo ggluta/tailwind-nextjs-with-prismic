@@ -1,0 +1,1 @@
+This directory contains the code of the actual components of the projects as well as the files that describe the Prismic slices.
